@@ -1,0 +1,22 @@
+.home {
+  font-size: 24px;
+  color:  #990099;
+  text-align: center;
+  margin-top: 50px;
+}
+.card{
+ color: rgb(218, 170, 97);
+  padding: 2px 5px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+  margin: 10px;
+  border-radius: 5px;
+ min-width: 90vh;
+ 
+}
+.product-container{
+  border: 1px solid black;
+  padding: 80px 50px;
+  margin: 20px;
+  border-radius: 20px ;
+  
+}
