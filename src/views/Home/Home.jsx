@@ -27,14 +27,14 @@ const Products = [
   },
   {
     id: 3,
-    title: "Tulip Delight",
+    title: "Tulip Delights",
     price: 600,
     description: " tulip flowers",
     image: Img3
   },
   {
     id: 4,
-    title: "Lily Basket",
+    title: "Lilies",
     price: 450,
     description: "Elegant pink lilies",
     image: Img4
@@ -56,7 +56,7 @@ function Home() {
 
       <BodyContainer>
         <h1>Welcome to Home Page</h1>
-        <p>Enjoy your stay!</p>
+      
 
         <div className="product-container">
           {Products.map((product) => (

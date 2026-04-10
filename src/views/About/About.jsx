@@ -7,22 +7,22 @@ const AboutData = [
   {
     id: 1,
     title: " Who We Are",
-    description: "We are a flower shop providing fresh and beautiful flowers for every occasion."
+    description: "Hand-picking the finest blooms to turn your ordinary days into extraordinary memories."
   },
   {
     id: 2,
     title: " Our Collection",
-    description: "We offer roses, tulips, lilies, sunflowers and many more varieties of flowers."
+    description: "From classic red roses to rare exotic lilies, explore a world of colors and fragrances."
   },
   {
     id: 3,
     title: " Our Mission",
-    description: "Our mission is to spread happiness and love through fresh and elegant flowers."
+    description: "Our mission is simple: to deliver joy, one bouquet at a time, straight to your doorstep."
   },
   {
     id: 4,
     title: " Fast Delivery",
-    description: "We ensure quick and safe delivery so your flowers reach fresh and on time."
+    description: "Speed meets freshness. We ensure your flowers arrive in perfect bloom, exactly when you need them."
   }
 ];
 
